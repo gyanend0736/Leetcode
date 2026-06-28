@@ -5,18 +5,17 @@ public:
         sort(cpScore.begin(), cpScore.end(), greater<int>());
         int n= score.size();
         vector<string> res(n);
+        unordered_map<int,int> mpp;
+        for(int i=0;i<n;i++){
+            mpp[cpScore[i]]=i;
+        }
         for(int i=0;i<score.size();i++){
-            for(int j=0;j<n;j++){
-                if(score[i]==cpScore[j]){
-                    if(j==0){
-                        res[i]= "Gold Medal";
-                    }
-                    else if(j==1) res[i]="Silver Medal";
-                    else if(j==2) res[i]="Bronze Medal";
-                    else res[i]= to_string(j+1);
-                    break;
+                if(mpp[score[i]]==0){
+                    res[i]= "Gold Medal";
                 }
-            }
+                else if(mpp[score[i]]==1) res[i]="Silver Medal";
+                else if(mpp[score[i]]==2) res[i]="Bronze Medal";
+                else res[i]= to_string(mpp[score[i]]+1);
         }
         return res;
 
