@@ -5,7 +5,7 @@ public:
         sort(cpScore.begin(), cpScore.end(), greater<int>());
         int n= score.size();
         vector<string> res(n);
-        vector<int> mpp(pow(10,6)+1);
+        map<int, int> mpp;
         for(int i=0;i<n;i++){
             mpp[cpScore[i]]=i;
         }
