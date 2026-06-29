@@ -12,13 +12,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/gyanend0736/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0506-relative-ranks](https://github.com/gyanend0736/Leetcode/tree/master/0506-relative-ranks) |
 ## Sorting
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/gyanend0736/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0506-relative-ranks](https://github.com/gyanend0736/Leetcode/tree/master/0506-relative-ranks) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/gyanend0736/Leetcode/tree/master/0506-relative-ranks) |
+## Hash Table
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/gyanend0736/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/gyanend0736/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/gyanend0736/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
