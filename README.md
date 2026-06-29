@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gyanend0736/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0506-relative-ranks](https://github.com/gyanend0736/Leetcode/tree/master/0506-relative-ranks) |
+| [0575-distribute-candies](https://github.com/gyanend0736/Leetcode/tree/master/0575-distribute-candies) |
 ## Sorting
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gyanend0736/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0575-distribute-candies](https://github.com/gyanend0736/Leetcode/tree/master/0575-distribute-candies) |
 ## Two Pointers
 |  |
 | ------- |
