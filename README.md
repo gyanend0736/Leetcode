@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0060-permutation-sequence](https://github.com/gyanend0736/Leetcode/tree/master/0060-permutation-sequence) |
 | [0390-elimination-game](https://github.com/gyanend0736/Leetcode/tree/master/0390-elimination-game) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/gyanend0736/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Recursion
 |  |
 | ------- |
@@ -63,5 +64,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/gyanend0736/Leetcode/tree/master/0474-ones-and-zeroes) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/gyanend0736/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/gyanend0736/Leetcode/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
