@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/gyanend0736/Leetcode/tree/master/0518-coin-change-ii) |
 | [0575-distribute-candies](https://github.com/gyanend0736/Leetcode/tree/master/0575-distribute-candies) |
 | [0740-delete-and-earn](https://github.com/gyanend0736/Leetcode/tree/master/0740-delete-and-earn) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/gyanend0736/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Sorting
 |  |
 | ------- |
