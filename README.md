@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/gyanend0736/Leetcode/tree/master/1291-sequential-digits) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/gyanend0736/Leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## String
 |  |
