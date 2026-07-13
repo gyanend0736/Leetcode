@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/gyanend0736/Leetcode/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/gyanend0736/Leetcode/tree/master/0605-can-place-flowers) |
 | [0740-delete-and-earn](https://github.com/gyanend0736/Leetcode/tree/master/0740-delete-and-earn) |
+| [1049-last-stone-weight-ii](https://github.com/gyanend0736/Leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/gyanend0736/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/gyanend0736/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Sorting
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/gyanend0736/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/gyanend0736/Leetcode/tree/master/0518-coin-change-ii) |
 | [0740-delete-and-earn](https://github.com/gyanend0736/Leetcode/tree/master/0740-delete-and-earn) |
+| [1049-last-stone-weight-ii](https://github.com/gyanend0736/Leetcode/tree/master/1049-last-stone-weight-ii) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/gyanend0736/Leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Bit Manipulation
 |  |
