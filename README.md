@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/gyanend0736/Leetcode/tree/master/0740-delete-and-earn) |
 | [0940-distinct-subsequences-ii](https://github.com/gyanend0736/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1049-last-stone-weight-ii](https://github.com/gyanend0736/Leetcode/tree/master/1049-last-stone-weight-ii) |
+| [1092-shortest-common-supersequence](https://github.com/gyanend0736/Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/gyanend0736/Leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Bit Manipulation
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/gyanend0736/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0940-distinct-subsequences-ii](https://github.com/gyanend0736/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/gyanend0736/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1092-shortest-common-supersequence](https://github.com/gyanend0736/Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1768-merge-strings-alternately](https://github.com/gyanend0736/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Greedy
 |  |
