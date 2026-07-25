@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/gyanend0736/Leetcode/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/gyanend0736/Leetcode/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/gyanend0736/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gyanend0736/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0474-ones-and-zeroes](https://github.com/gyanend0736/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0506-relative-ranks](https://github.com/gyanend0736/Leetcode/tree/master/0506-relative-ranks) |
@@ -56,10 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/gyanend0736/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gyanend0736/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/gyanend0736/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/gyanend0736/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/gyanend0736/Leetcode/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/gyanend0736/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
