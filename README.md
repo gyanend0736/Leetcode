@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/gyanend0736/Leetcode/tree/master/0060-permutation-sequence) |
 | [0390-elimination-game](https://github.com/gyanend0736/Leetcode/tree/master/0390-elimination-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/gyanend0736/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/gyanend0736/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/gyanend0736/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/gyanend0736/Leetcode/tree/master/1291-sequential-digits) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/gyanend0736/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/gyanend0736/Leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## String
 |  |
