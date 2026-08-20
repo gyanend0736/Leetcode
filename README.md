@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/gyanend0736/Leetcode/tree/master/0060-permutation-sequence) |
+| [0313-super-ugly-number](https://github.com/gyanend0736/Leetcode/tree/master/0313-super-ugly-number) |
 | [0390-elimination-game](https://github.com/gyanend0736/Leetcode/tree/master/0390-elimination-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/gyanend0736/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/gyanend0736/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/gyanend0736/Leetcode/tree/master/0174-dungeon-game) |
 | [0283-move-zeroes](https://github.com/gyanend0736/Leetcode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/gyanend0736/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0313-super-ugly-number](https://github.com/gyanend0736/Leetcode/tree/master/0313-super-ugly-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gyanend0736/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/gyanend0736/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0474-ones-and-zeroes](https://github.com/gyanend0736/Leetcode/tree/master/0474-ones-and-zeroes) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0174-dungeon-game](https://github.com/gyanend0736/Leetcode/tree/master/0174-dungeon-game) |
 | [0300-longest-increasing-subsequence](https://github.com/gyanend0736/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0313-super-ugly-number](https://github.com/gyanend0736/Leetcode/tree/master/0313-super-ugly-number) |
 | [0354-russian-doll-envelopes](https://github.com/gyanend0736/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0474-ones-and-zeroes](https://github.com/gyanend0736/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/gyanend0736/Leetcode/tree/master/0518-coin-change-ii) |
