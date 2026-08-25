@@ -1,21 +1,14 @@
 class Solution {
 public:
     int missingMultiple(vector<int>& nums, int k) {
-        sort(nums.begin(),nums.end());
+        
         set<int> mpp;
         for(auto it:nums) mpp.insert(it);
-        int co=k;
         
-        for(auto it:mpp){
-            if(it%k==0){
-                if(it!=co){
-                    return co;
-                }
-                else{
-                    co+=k;
-                }
-            }
+        int i;
+        for( i=k;i<=1000;i+=k){
+           if(mpp.find(i)==mpp.end()) return i;
         }
-        return co;
+        return i+k;
     }
 };
