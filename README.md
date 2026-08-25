@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-last-stone-weight-ii](https://github.com/gyanend0736/Leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/gyanend0736/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/gyanend0736/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/gyanend0736/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sorting
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/gyanend0736/Leetcode/tree/master/0575-distribute-candies) |
 | [0740-delete-and-earn](https://github.com/gyanend0736/Leetcode/tree/master/0740-delete-and-earn) |
 | [1331-rank-transform-of-an-array](https://github.com/gyanend0736/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/gyanend0736/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
 | ------- |
