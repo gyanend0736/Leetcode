@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/gyanend0736/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/gyanend0736/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/gyanend0736/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3903-smallest-stable-index-i](https://github.com/gyanend0736/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Sorting
 |  |
 | ------- |
@@ -121,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0174-dungeon-game](https://github.com/gyanend0736/Leetcode/tree/master/0174-dungeon-game) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/gyanend0736/Leetcode/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
