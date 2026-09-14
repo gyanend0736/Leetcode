@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/gyanend0736/Leetcode/tree/master/0313-super-ugly-number) |
 | [0343-integer-break](https://github.com/gyanend0736/Leetcode/tree/master/0343-integer-break) |
 | [0390-elimination-game](https://github.com/gyanend0736/Leetcode/tree/master/0390-elimination-game) |
+| [0836-rectangle-overlap](https://github.com/gyanend0736/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/gyanend0736/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/gyanend0736/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/gyanend0736/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -191,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/gyanend0736/Leetcode/tree/master/0113-path-sum-ii) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/gyanend0736/Leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
