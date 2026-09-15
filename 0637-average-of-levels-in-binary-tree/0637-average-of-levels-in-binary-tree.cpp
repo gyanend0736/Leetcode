@@ -15,20 +15,21 @@ public:
     vector<double> averageOfLevels(TreeNode* root) {
         if(root==nullptr) return {};
         vector<double> res;
-        vector<TreeNode*> q;
-        q.push_back(root);
+        queue<TreeNode*> q;
+        q.push(root);
         while(!q.empty()){
             long long sum=0;
-            for(auto it:q) sum+=it->val;
             long long size= q.size();
+            int t= size;
+            
+            while(t--){
+                if(q.front()->left) q.push(q.front()->left);
+                if(q.front()->right) q.push(q.front()->right);
+                sum+=q.front()->val;
+                q.pop();   
+            }
             double avg= static_cast<double>(sum)/size;
             res.push_back(avg);
-            while(size--){
-                 if(q[0]->left) q.push_back(q[0]->left);
-                if(q[0]->right) q.push_back(q[0]->right);
-                q.erase(q.begin());
-               
-            }
         }
 
         return res;
