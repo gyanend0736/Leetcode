@@ -11,21 +11,28 @@
  */
 class Solution {
 public:
-    int val=0;
-    int maxDept= -1;
+    
     int findBottomLeftValue(TreeNode* root) {
-        f(root, 0);
+        int val=0;
+        int maxDept= -1;
+        int dept=0;
+        queue<TreeNode*> q;
+        q.push(root);
+        while(!q.empty()){
+            if(dept>maxDept){
+                val= q.front()->val;
+                maxDept=dept;
+            }
+            int size= q.size();
+            while(size--){
+                if(q.front()->left) q.push(q.front()->left);
+                if(q.front()->right) q.push(q.front()->right);
+                q.pop();
+            }
+            dept++;
+
+        }
         return val;
     }
-    void f(TreeNode* root, int a){
-        if(root== nullptr){
-            return;
-        }
-        if(a>maxDept){
-            val= root->val;
-            maxDept=a;
-        }
-        f(root->left, a+1);
-        f(root->right, a+1);
-    }
+   
 };
