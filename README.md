@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/gyanend0736/Leetcode/tree/master/0724-find-pivot-index) |
 | [0740-delete-and-earn](https://github.com/gyanend0736/Leetcode/tree/master/0740-delete-and-earn) |
 | [1049-last-stone-weight-ii](https://github.com/gyanend0736/Leetcode/tree/master/1049-last-stone-weight-ii) |
+| [1207-unique-number-of-occurrences](https://github.com/gyanend0736/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/gyanend0736/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/gyanend0736/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1732-find-the-highest-altitude](https://github.com/gyanend0736/Leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/gyanend0736/Leetcode/tree/master/0575-distribute-candies) |
 | [0740-delete-and-earn](https://github.com/gyanend0736/Leetcode/tree/master/0740-delete-and-earn) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/gyanend0736/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1207-unique-number-of-occurrences](https://github.com/gyanend0736/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/gyanend0736/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/gyanend0736/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/gyanend0736/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
