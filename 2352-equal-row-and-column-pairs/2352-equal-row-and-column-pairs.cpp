@@ -3,18 +3,17 @@ public:
     int equalPairs(vector<vector<int>>& grid) {
         int ans =0;
         int n= grid.size();
-        map<int, vector<int>> cols;
+        map< vector<int>,int> rocount;
         for(int i=0;i<n;i++){
-            for(int j=0;j<n;j++){
-                cols[j].push_back(grid[i][j]);
-            }
+            rocount[grid[i]]++;
         }
-        for(auto row:grid){
-            for(auto col:cols){
-                if(row==col.second){
-                    ans++;
-                }
+        for(int j=0;j<n;j++){
+            vector<int> cur;
+            for(int i= 0;i<n;i++){
+                cur.push_back(grid[i][j]);
+
             }
+            ans+= rocount[cur];
         }
         return ans;
     }
