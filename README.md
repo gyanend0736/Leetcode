@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0060-permutation-sequence](https://github.com/gyanend0736/Leetcode/tree/master/0060-permutation-sequence) |
 | [0390-elimination-game](https://github.com/gyanend0736/Leetcode/tree/master/0390-elimination-game) |
+| [0394-decode-string](https://github.com/gyanend0736/Leetcode/tree/master/0394-decode-string) |
 ## Array
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/gyanend0736/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/gyanend0736/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/gyanend0736/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0394-decode-string](https://github.com/gyanend0736/Leetcode/tree/master/0394-decode-string) |
 | [0474-ones-and-zeroes](https://github.com/gyanend0736/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0583-delete-operation-for-two-strings](https://github.com/gyanend0736/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0940-distinct-subsequences-ii](https://github.com/gyanend0736/Leetcode/tree/master/0940-distinct-subsequences-ii) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/gyanend0736/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/gyanend0736/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/gyanend0736/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0394-decode-string](https://github.com/gyanend0736/Leetcode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/gyanend0736/Leetcode/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/gyanend0736/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Tree
