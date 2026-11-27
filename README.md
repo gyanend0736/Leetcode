@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/gyanend0736/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0933-number-of-recent-calls](https://github.com/gyanend0736/Leetcode/tree/master/0933-number-of-recent-calls) |
 ## Database
 |  |
 | ------- |
@@ -337,4 +338,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/gyanend0736/Leetcode/tree/master/0735-asteroid-collision) |
 | [2352-equal-row-and-column-pairs](https://github.com/gyanend0736/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/gyanend0736/Leetcode/tree/master/2390-removing-stars-from-a-string) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/gyanend0736/Leetcode/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/gyanend0736/Leetcode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
