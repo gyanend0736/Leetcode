@@ -1,20 +1,20 @@
 class RecentCounter {
 public:
-    int count;
+    
     queue<int> q;
     RecentCounter() {
-        count=0;
+       
     }
     
     int ping(int t) {
         q.push(t);
         int bound= t-3000;
-        count++;
+        
         while(q.front()<bound){
-            count--;
+            
             q.pop();
         }
-        return count;
+        return q.size();
         
     }
 };
